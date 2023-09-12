@@ -1,0 +1,15 @@
+{
+  "model_key": "Peugeot",
+  "mileage": 20000,
+  "engine_power": 135,
+  "fuel": "diesel",
+  "paint_color": "grey",
+  "car_type": "estate",
+  "private_parking_available": 1,
+  "has_gps": 0,
+  "has_air_conditioning": 1,
+  "automatic_car": 1,
+  "has_getaround_connect": 0,
+  "has_speed_regulator": 0,
+  "winter_tires": 1
+}
